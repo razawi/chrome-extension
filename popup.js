@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
   checkPageButton.addEventListener('click', function() {
 
     chrome.tabs.getSelected(null, function(tab) {
+        debugger;
       d = document;
 
       var f = d.createElement('form');

@@ -1,0 +1,47 @@
+{
+  "name": "Getting started example",
+  "description": "This extension ",
+  "version": "0.1",
+  "icon": "icon.png",
+  "followies": {
+    "660323911" : 1.3,
+    "532483795" : 1.3,
+    "629221045" : 1.3,
+    "100010750811198" : 1.3,
+    "100001002621048" : 1.3,
+    "684436351" : 1.3,
+    "708833795" : 1.3,
+    "757069861" : 1.3
+  },
+  "graders": {
+    "100010750811198" : 1.5,
+    "fbID" : 1.5,
+    "fbID1" : 1.7
+  },
+  "figures" : {
+      "v" : "c",
+      "Gilad Erdan": "page Id"
+  },
+  "pages" : {
+      "v" : "c",
+      "Gilad Erdan": "page Id"
+  },
+  "dictionery-internal" : {
+      "users" : {
+        "Yoni Blondi": "660323911",
+        "Jonathan Hakim Okun": "532483795",
+        "Amir Madem": "629221045",
+        "Raz koren": "100010750811198",
+        "Idan De Eretz": "100001002621048",
+        "Iair Raviv": "684436351",
+        "Raz kronenberg": "708833795",
+        "Amos dov silver": "757069861"
+      },
+      "figures" : {
+
+      },
+      "pages" : {
+
+      }
+  }
+}
