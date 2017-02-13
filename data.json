@@ -45,3 +45,10 @@
       }
   }
 }
+
+
+
+// the feed API
+// https://developers.facebook.com/docs/public_feed/
+
+// after the feed we must go to Graph API the get the data
